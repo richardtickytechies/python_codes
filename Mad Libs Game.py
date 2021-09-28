@@ -1,0 +1,6 @@
+name=input("Enter a name: ")
+place=input("Enter a place: ")
+something=input("Enter something that happened: ")
+print("One day, "+name)
+print("went to "+place)
+print("and then he "+something+"!")
