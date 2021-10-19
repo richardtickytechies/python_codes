@@ -17,7 +17,7 @@ is_male = False
 print("This is a string.")
 print("There is a break under this\nThere is a break above this.")
 print("Oh look!\"A Quotation is here.")
-print("This simply\create a backslash.")
+print("This simply\creates a backslash.")
 # \n means creating a break, similar to the <br> function.
 # \" Will basically create a quotation in the middle of the text.
 phrase = "Craftie"

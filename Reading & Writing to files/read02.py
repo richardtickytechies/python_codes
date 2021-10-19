@@ -1,0 +1,5 @@
+funny=open("names.txt", "r")
+print(funny.readline())
+print(funny.readline())
+print(funny.readline())
+funny.close()
